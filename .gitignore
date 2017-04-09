@@ -33,3 +33,6 @@ sysinfo.txt
 .vs/
 /OLD.vs
 /OLD.vs
+
+# Game builds
+/App

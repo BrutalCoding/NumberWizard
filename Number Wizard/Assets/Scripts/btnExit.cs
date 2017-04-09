@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class btnExit : MonoBehaviour {
 
-	// Use this for initialization
+	// Quit the game
 	public void ExitGame()
     {
         Application.Quit();
